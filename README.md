@@ -1,1 +1,1 @@
-Juego basico utilizando javascrip y html
+Juego basico utilizando javascript y html
